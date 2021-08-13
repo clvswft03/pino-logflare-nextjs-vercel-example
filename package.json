@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.15",
-    "next": "^9.4.2",
+    "next": "^11.1.0",
     "pino": "^6.3.2",
     "pino-logflare": "^0.3.8",
     "react": "^16.13.1",
